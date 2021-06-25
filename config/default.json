@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Ani:asilaydying@cluster0.p6sjf.mongodb.net/Cluster0?retryWrites=true&w=majority",
+  "mongoURI": "
   "jwtSecret": "sl_myJwtSecret"
 }
